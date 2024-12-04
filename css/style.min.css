@@ -1054,7 +1054,7 @@ h6 {
 }
 
 .item-about__body-info h2::before {
-    content: "About Goggles";
+    content: "About Penggles";
     position: absolute;
     z-index: -1;
     inset: 0;
